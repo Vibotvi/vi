@@ -1,0 +1,15 @@
+{
+  "name": "vi",
+  "version": "1.0.5",
+  "description": "Uma pseudo I.A., sempre em evolução :)",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node .",
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Leal/Swellshinider",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
